@@ -1,0 +1,27 @@
+@media screen and (max-width:700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .botao {
+        width: 300px;
+        margin: 5px;
+
+
+    }
+
+    .filme-principal {
+        background-image: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url(/imagens/goku-capa.jpg);
+    }
+
+    .filme-principal .container {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    /* .filme-principal .container{
+        width: 100%; 
+     */
+}
