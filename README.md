@@ -1,2 +1,2 @@
 # Clone-Netflix-Nostalgiaflix
-Projeto realizado do Bootcamp no Carrefour Web Developer
+Projeto realizado do Bootcamp no Carrefour Web Developer - FIcou Show
