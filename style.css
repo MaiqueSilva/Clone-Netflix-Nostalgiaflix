@@ -67,7 +67,7 @@ header nav a:hover {
 }
 
 .botao{
-
+    text-decoration-color: white;
     background-color: rgba(0, 0, 0,.50);
     border: none; 
     color: white;
@@ -76,6 +76,7 @@ header nav a:hover {
     font-size: 12px;
     cursor: pointer;
     transition: .3s ease all;
+    
 }
 
 .botao:hover{
@@ -102,7 +103,7 @@ a{
     text-decoration: none;
 }
 
-.botao {
+.botao .botoes {
 
     color:white;
     text-decoration: none;}
